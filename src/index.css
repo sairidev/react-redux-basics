@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+button {
+  background-color: rgb(255, 145, 0);
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.btn,
+button {
+  cursor: pointer;
+}

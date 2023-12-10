@@ -1,0 +1,18 @@
+#counter {
+  background-color: rgb(20, 22, 22);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#counter h2 {
+  color: aliceblue;
+  font-size: 32px;
+}
+
+#counter span input {
+  color: rgb(255, 145, 0);
+  border-bottom: 1px dotted rgb(255, 145, 0);
+}
